@@ -1,0 +1,12 @@
+int func() {
+int4d a ;
+intabd345;
+float b , c , e ;
+const float g = 9.81 ;
+g = 1.5 ;
+a = 2 ;
+b = 2.5 ;
+c = a + b ;
+e = ( c - 0.5 ) + g ;
+return e ;
+}

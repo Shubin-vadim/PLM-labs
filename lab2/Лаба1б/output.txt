@@ -1,0 +1,27 @@
+Leksema        Type leksem     Id in HastTable                    
+1.5                    FLOAT                   0
+e                      VAR                   1
+2                      INT                   2
+g                      VAR                   3
+0.5                    FLOAT                   4
+2.5                    FLOAT                   5
+9.81                    FLOAT                   8
+func()                 FUNCTION                   9
+=                  OPERAND                  11
+const                      VAR                  12
+;          SERVICE_OPERAND                  18
+return                 KEY_WORD                  22
+{          SERVICE_OPERAND                  23
+}          SERVICE_OPERAND                  25
+int                 KEY_WORD                  31
+)          SERVICE_OPERAND                  32
+int4d                    ERROR                  33
+float                 KEY_WORD                  34
+(          SERVICE_OPERAND                  40
+intabd345;                    ERROR                  41
++                  OPERAND                  43
+,                    ERROR                  44
+-                  OPERAND                  45
+a                      VAR                  47
+b                      VAR                  48
+c                      VAR                  49

@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Vadim\Desktop\folders\For study\Универ\2 курс\ЯМП\Лабы\Лаба1б — копия\Лаба1б\HashTable.h(37,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Vadim\Desktop\folders\For study\Универ\2 курс\ЯМП\Лабы\Лаба1б — копия\Лаба1б\HashTable.h(96,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Vadim\Desktop\folders\For study\Универ\2 курс\ЯМП\Лабы\Лаба1б — копия\Лаба1б\LexicalAnalyzer.h(30,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Vadim\Desktop\folders\For study\Универ\2 курс\ЯМП\Лабы\Лаба1б — копия\Лаба1б\LexicalAnalyzer.h(39,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Vadim\Desktop\folders\For study\Универ\2 курс\ЯМП\Лабы\Лаба1б — копия\Лаба1б\LexicalAnalyzer.h(56,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Лаба1б.vcxproj -> C:\Users\Vadim\Desktop\folders\For study\Универ\2 курс\ЯМП\Лабы\Лаба1б — копия\x64\Debug\Лаба1б.exe
